@@ -16,6 +16,7 @@ Credentials: manager/PCS4_passwd
 This repo does not contain a standard 'package' for openwrt, but the complete directory 'files', which you need to build a custom image (no LuCI) for PCS4.
 As a prototype, you also find .config for my workhorse running openwrt, a WE826 from ZBT.
 Interested parties are invited to provide .config for other hardware.
+To build the image, you need to use current openwrt (TRUNK). May be, version 20.x.x will allow a stable base.
 
 Required RAM: 128MB
 Flash: 16MB
