@@ -21,4 +21,5 @@ To build the image, you need to use current openwrt (TRUNK). May be, version 20.
 Required RAM: 128MB
 Flash: 16MB
 
+Initial root password: PCS4_passwd
 
