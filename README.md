@@ -29,4 +29,5 @@ Flash: 16MB
 Initial root password: PCS4_passwd
 (Can be changed only via ssh)
 Router has LAN-IP 192.168.20.1
+IP4 only !
 
