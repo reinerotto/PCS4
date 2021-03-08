@@ -18,6 +18,7 @@ As a prototype, you also find .config_we826 for my workhorse running openwrt, a 
 Thus, you need to set up the standard build environment (recent, TRUNK), and copy 'files' from here into it.
 Then do a standard 'make menuconfig', select your hardware platform, and exit. Then do a diff for the .config_we826 from here and your .config.
 Redo 'make menuconfig' and select/unselect the differences found.
+You can contact me to help for your device type.
 Because of multiple reboots, initial flash+auto config of the system might take about 20 min. 
 Keep the openwrt-device connected to the web all the time.
 
