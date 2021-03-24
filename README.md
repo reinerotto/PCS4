@@ -32,3 +32,5 @@ Initial root password: PCS4_passwd
 Router has LAN-IP 192.168.20.1
 IP4 only !
 
+Please, check sources here:
+https://github.com/reinerotto/PCS4/releases/tag/v0.9
